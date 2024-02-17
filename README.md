@@ -17,7 +17,7 @@
   <p>over time truly i have done a lot of things indeed but here are a few things that i have done</p>
 
   <ul>
-    <li>🥇 First place in AYS Hackathon 2021</li>
+    <li>🥇 First place in AYS Hackathon 2020</li>
     <li>🎨 Graphics design</li>
     <li>🎮 Custom web game engines</li>
     <li>🥕 Founded Carroted, an org making software, games, apps and animation</li>
